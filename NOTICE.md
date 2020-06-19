@@ -5,3 +5,4 @@ If create a new project with gradle from latest IntellijIdea-U (2020.1.2) IDE - 
 <br>But if u want to use *SpringBoot 2.3.0.RELEASE*, u need change gradle version as gradle-6.3 or higher.
 <br>Working example: **distributionUrl=https\://services.gradle.org/distributions/gradle-6.5-bin.zip.**
  
+ I was wrong. User should not think about gradle configuration. And now, latest gradle autoconfigured.
